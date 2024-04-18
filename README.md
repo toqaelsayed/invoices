@@ -1,20 +1,7 @@
-# Frontend Mentor - Invoice web app solution
-
-This is a solution to the [Invoice web app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
-  -[Whar I Learned](#what-i-learned)
-- [Author](#author)
+#  Invoice web app
 
 
-## Overview
+
 
 ### The challenge
 
@@ -27,19 +14,13 @@ Users should be able to:
 - Save draft invoices, and mark pending invoices as paid
 - Filter invoices by status (draft/pending/paid)
 - Toggle light and dark mode
-- **Bonus**: Keep track of any changes, even after refreshing the browser (`localStorage` could be used for this if you're not building out a full-stack app)
+
 
 
 ### Screenshot
 
 ![](./public/firstPage.webp)
 ![](./public/innerPage.webp)
-
-
-### Links
-
-
-- Live Site URL: [link](https://invoice-web-app-react.vercel.app/)
 
 
 ### Built with
@@ -57,12 +38,8 @@ In this project, I learned how to work with libraries like React, Redux Toolkit,
 
 I learned how to work with the Framer Motion library. Prior to this project, I had no experience working with Framer Motion, but through this project, I gained experience in this area.
 
-### Useful resources
-- [Framer Motion Documents](https://www.framer.com/motion/introduction/)
-
 
 ## Author
 
-- LinkedIn - [Hesam DearBoy](https://www.linkedin.com/in/hesam-azizpour-23259b265/)
-
+- LinkedIn - [Toqa Elsayed](https://www.linkedin.com/in/toqaelsayed/)
 
